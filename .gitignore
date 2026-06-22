@@ -1,0 +1,20 @@
+
+# Generated output folders — keep folder structure, ignore contents
+transit_sim_inputs/*
+!transit_sim_inputs/.gitkeep
+transit_sim_outputs/*
+!transit_sim_outputs/.gitkeep
+figs/*
+!figs/.gitkeep
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Jupyter
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Keep folder structure (empty folders tracked via .gitkeep)
