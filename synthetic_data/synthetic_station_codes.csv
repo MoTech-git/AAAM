@@ -1,0 +1,355 @@
+afc_code,station_name,line_number
+100000001,Pingguoyuan,1
+100000002,Gucheng,1
+100000003,Bajiao Amusement Park,1
+100000004,bajiaoshan,1
+100000005,yuquanlu,1
+100000006,wukesong,1
+100000007,wanshoulu,1
+100000008,gongzhufen,1
+100000009,Military Museum,1
+100000010,muxidi,1
+100000011,nanlishilu,1
+100000012,fuxingmen,1
+100000013,xidan,1
+100000014,tian'anmenxi,1
+100000015,tian'anmendong,1
+100000016,wangfujin,1
+100000017,dongdan,1
+100000018,jianguomen,1
+100000019,yonganli,1
+100000020,guomao,1
+100000021,dawanglu,1
+100000022,sihui,1
+100000023,sihuidong,1
+100000024,sihui,Batong line
+100000025,sihuidong,Batong line
+100000026,gaobeidian,Batong line
+100000027,Comunication Univ of China,Batong line
+100000028,shuangqiao,Batong line
+100000029,guanzhuang,Batong line
+100000030,baliqiao,Batong line
+100000031,tongzhoubeiyuan,Batong line
+100000032,guoyuan,Batong line
+100000033,jiukeshu,Batong line
+100000034,liyuan,Batong line
+100000035,linheli,Batong line
+100000036,tuqiao,Batong line
+100000037,jishuitan,2
+100000038,xizhimen,2
+100000039,gongchezhuang,2
+100000040,fuchengmen,2
+100000041,fuxingmen,2
+100000042,changchunjie,2
+100000043,xuanwumen,2
+100000044,hepingmen,2
+100000045,qianmen,2
+100000046,chongwenmen,2
+100000047,beijing railway station,2
+100000048,jianguomen,2
+100000049,chaoyangmen,2
+100000050,dongsishitiao,2
+100000051,dongzhimen,2
+100000052,yonghegong,2
+100000053,andingmen,2
+100000054,guloudajie,2
+100000055,dongzhimen,Airport line
+100000056,sanyuanqiao,Airport line
+100000057,3 Hao hangzhanlou (Terminal 3),Airport line
+100000058,2 Hao hangzhanlou (Terminal 2),Airport line
+100000059,anheqiaobei,4
+100000060,donggongmen,4
+100000061,xiyuan,4
+100000062,yuanmingyuan,4
+100000063,East Gate of Peking University,4
+100000064,zhongguancun,4
+100000065,haidianhuangzhuang,4
+100000066,renmin Daxye (Renmin Univ.),4
+100000067,weigongcun,4
+100000068,guojiatushuguan,4
+100000069,dongwuyuan,4
+100000070,xizhimen,4
+100000071,xinjiekou,4
+100000072,pinganli,4
+100000073,xisi,4
+100000074,lingjinghutong,4
+100000075,xidan,4
+100000076,xuanwumen,4
+100000077,caishikou,4
+100000078,taoranting,4
+100000079,beijing south railway station,4
+100000080,majiabao,4
+100000081,jiaomenxi,4
+100000082,gongyixiqiao,4
+100000083,xingong,4
+100000084,xihongmen,4
+100000085,gaomidianbei,4
+100000086,gaomidiannan,4
+100000087,zaoyuan,4
+100000088,qingyuanlu,4
+100000089,huangcunxijie,4
+100000090,huangcunhuochezhan,4
+100000091,yihezhuang,4
+100000092,biomedical base,4
+100000093,tiangongyuan,4
+100000094,tiantongyuanbei,5
+100000095,tiantongyuan,5
+100000096,tiantongyuannan,5
+100000097,lishuiqiao,5
+100000098,lishuiqiaonan,5
+100000099,beiyuanlubei,5
+100000100,datunludong,5
+100000101,huixinxijiebeikou,5
+100000102,huixinxijienankou,5
+100000103,hepingxiqiao,5
+100000104,hepinglibeijie,5
+100000105,yonghegong,5
+100000106,beixinqiao,5
+100000107,zhangzizhonglu,5
+100000108,dongsi,5
+100000109,dengshikou,5
+100000110,dongdan,5
+100000111,chongwenmen,5
+100000112,ciqikou,5
+100000113,tiantandongmen,5
+100000114,puhuangyu,5
+100000115,liujiaoyao,5
+100000116,songjiazhuang,5
+100000117,songjiazhuang,Yizhuang line
+100000118,xiaocun,Yizhuang line
+100000119,xiaohongmen,Yizhuang line
+100000120,jiugong,Yizhuang line
+100000121,yizhuangqiao,Yizhuang line
+100000122,yizhuangwenhuayuan,Yizhuang line
+100000123,wanyuanjie,Yizhuang line
+100000124,rongjingdongjie,Yizhuang line
+100000125,rongchangdongjie,Yizhuang line
+100000126,tongjinanlu,Yizhuang line
+100000127,jinghailu,Yizhuang line
+100000128,ciqunan,Yizhuang line
+100000129,ciqu,Yizhuang line
+100000130,yizhuanghuochezhan,Yizhuang line
+100000131,haidian_wuluju,6
+100000132,cishousi,6
+100000133,huayuanqiao,6
+100000134,baishiqiaonan,6
+100000135,chegongzhuangxi,6
+100000136,chegongzhuang,6
+100000137,pinganli,6
+100000138,beihaibei,6
+100000139,nanluogu_xiang,6
+100000140,dongsi,6
+100000141,chaoyangmen,6
+100000142,dongdaqiao,6
+100000143,hujialou,6
+100000144,jintai_lu,6
+100000145,shilipu,6
+100000146,qingnian_lu,6
+100000147,dalianpo,6
+100000148,huangqu,6
+100000149,changying,6
+100000150,caofang,6
+100000151,wuzi_xueyuan_lu,6
+100000152,tongzhou_beiguan,6
+100000153,tongyunmen,6
+100000154,beiyunhexi,6
+100000155,beiyunhedong,6
+100000156,haojiafu,6
+100000157,dongxiayuan,6
+100000158,lucheng,6
+100000159,beijingxizhan,7
+100000160,wanzi,7
+100000161,daguanying,7
+100000162,guanganmennei,7
+100000163,caishikou,7
+100000164,hufangqiao,7
+100000165,zhushikou,7
+100000166,qiaowan,7
+100000167,ciqikou,7
+100000168,guanganmennei,7
+100000169,guanganmenwai,7
+100000170,shuangjin,7
+100000171,jiulngshan,7
+100000172,dajiaoting,7
+100000173,baiziwan,7
+100000174,huagong,7
+100000175,nanlouzizhuang,7
+100000176,huanlegujingqu,7
+100000177,happy valley station,7
+100000178,shuanghe,7
+100000179,jiaohuachang,7
+100000180,nanluoguxiang,8
+100000181,shishahai,8
+100000182,guloudajie,8
+100000183,andelibeijie,8
+100000184,anhuaqiao,8
+100000185,beitucheng,8
+100000186,aotizhongxin,8
+100000187,aolinpikegongyuan,8
+100000188,sengligongyuannanmen,8
+100000189,lincuiqiao,8
+100000190,yongtaizhuang,8
+100000191,xixiaokou,8
+100000192,yuxin,8
+100000193,huoying,8
+100000194,huilongguandogdajie,8
+100000195,pingxifu,8
+100000196,yuzhilu,8
+100000197,zhuxingzhuang,8
+100000198,guojiatushuguan,9
+100000199,baishiqiaonan,9
+100000200,baiduizi,9
+100000201,Military Museum,9
+100000202,beijingxizhan,9
+100000203,liuliqiaodong,9
+100000204,liuliqiao,9
+100000205,qilizhuang,9
+100000206,fengtaidongdajie,9
+100000207,fengtainanlu,9
+100000208,keyilu,9
+100000209,fengtaikejiyuan,9
+100000210,guogongzhuang,9
+100000211,gongchezhuang,Fangshan line
+100000212,dabaotai,Fangshan line
+100000213,daotian,Fangshan line
+100000214,changyang,Fangshan line
+100000215,libafang,Fangshan line
+100000216,guangyangcheng,Fangshan line
+100000217,liangxiangdaxuechengbei,Fangshan line
+100000218,liangxiangdaxuecheng,Fangshan line
+100000219,liangxiangdaxuechengxi,Fangshan line
+100000220,liangxiangnanguan,Fangshan line
+100000221,suzhuang,Fangshan line
+100000222,panjiayuan,10
+100000223,jingsong,10
+100000224,shuangjin,10
+100000225,guomao,10
+100000226,jintaixizhao,10
+100000227,hujialou,10
+100000228,tuanjiehu,10
+100000229,nongyezhanlanguan,10
+100000230,liangmaqiao,10
+100000231,sanyuanqiao,10
+100000232,taiyanggong,10
+100000233,shaoyaoju,10
+100000234,huixinxijienankou,10
+100000235,anzhenmen,10
+100000236,beitucheng,10
+100000237,jiandemen,10
+100000238,mudanyuan,10
+100000239,xitucheng,10
+100000240,zhichunlu,10
+100000241,zhichunli,10
+100000242,haidianhuangzhuang,10
+100000243,suzhoujie,10
+100000244,bagou,10
+100000245,huoqiying,10
+100000246,changchunqiao,10
+100000247,chedaogou,10
+100000248,cishousi,10
+100000249,xidiaoyutai,10
+100000250,gongzhufen,10
+100000251,lianhuaqiao,10
+100000252,liuliqiao,10
+100000253,xiju,10
+100000254,niwa,10
+100000255,fengtaizhan,10
+100000256,shoujingmao,10
+100000257,jijiayuan,10
+100000258,caoqiao,10
+100000259,jiaomenxi,10
+100000260,jiaomendong,10
+100000261,dahongmen,10
+100000262,shiliuzhuang,10
+100000263,songjiazhuang,10
+100000264,chengshousi,10
+100000265,fenzhongsi,10
+100000266,shilihe,10
+100000267,xizhime,13
+100000268,dazhongsi,13
+100000269,zhichunlu,13
+100000270,wudaokou,13
+100000271,shangdi,13
+100000272,xierqi,13
+100000273,longze,13
+100000274,huilongguan,13
+100000275,huoying,13
+100000276,lishuiqiao,13
+100000277,beiyuan,13
+100000278,wangjingxi,13
+100000279,shaoyaoju,13
+100000280,guangximen,13
+100000281,liufang,13
+100000282,dongzhimen,13
+100000283,xierqi,Changping line
+100000284,shengmingkexueyuan,Changping line
+100000285,zhunxinzhuang,Changping line
+100000286,gonghuacheng,Changping line
+100000287,shahe,Changping line
+100000288,shahegaojiaoyuan,Changping line
+100000289,nanshao,Changping line
+100000290,changpingxishankou,Changping line
+100000291,shisanlingjingqu,Changping line
+100000292,changping,Changping line
+100000293,chengpingdongguan,Changping line
+100000294,beishaowa,Changping line
+100000295,xiju,14
+100000296,qilizhuang,14
+100000297,dajing,14
+100000298,guozhuangzi,14
+100000299,dawayao,14
+100000300,yuanboyuan,14
+100000301,zhangguozhuang,14
+100000302,shangezhuang,14
+100000303,laiguangying,14
+100000304,donghuqu,14
+100000305,wangjing,14
+100000306,futong,14
+100000307,wangjingnan,14
+100000308,gaojiayuan,14
+100000309,jiangtai,14
+100000310,dongfengbeiqiao,14
+100000311,azaoying,14
+100000312,chaoyanggongyuan,14
+100000313,jintailu,14
+100000314,beijingnanzhan,14
+100000315,taoranting,14
+100000316,yongdingmenwai,14
+100000317,jingtai,14
+100000318,puhuangyu,14
+100000319,fangzhuang,14
+100000320,shilihe,14
+100000321,beihuadaximen,14
+100000322,pingluyuan,14
+100000323,jiulongshan,14
+100000324,dawanglu,14
+100000325,wangjingxi,15
+100000326,wangjing,15
+100000327,wangjingdong,15
+100000328,cuigezhuang,15
+100000329,maquanying,15
+100000330,sunhe,15
+100000331,guozhan,15
+100000332,hulikan,15
+100000333,houshayu,15
+100000334,nanfaxin,15
+100000335,shimen,15
+100000336,shunyi,15
+100000337,fengbo,15
+100000338,guanzhuang,15
+100000339,datunludong,15
+100000340,anlilu,15
+100000341,aolipikegongyuan,15
+100000342,beishatan,15
+100000343,beidaokou,15
+100000344,qinghuadongluxi,15
+100000345,beianhe,16
+100000346,wenyanglu,16
+100000347,daoxianghulu,16
+100000348,tuntian,16
+100000349,yongfeng,16
+100000350,yongfengnan,16
+100000351,xibeiwang,16
+100000352,nanlianwa,16
+100000353,nongdananlu,16
+100000354,xiyuan,16
